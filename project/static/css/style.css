@@ -1,0 +1,136 @@
+#login {
+    background-image: url('/static/images/back.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: #f3e0ef;
+}
+
+
+#kitchen {
+    background-image: url('/static/images/kitchen.jpg');
+
+}
+
+.white {
+    color: #3d4044;
+    font-size: 24px;
+}
+
+
+#bar {
+    background-image: url('/static/images/bar.jpg');
+}
+
+.flex {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    height: 100vh;
+}
+
+#btn {
+    margin: 0 90px;
+    color: black;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    display: inline-block;
+}
+
+.images {
+    width: 360px; 
+    height: 360px;
+}
+
+.images_product {
+    width: 200px; 
+    height: 200px;
+}
+
+#home {
+    background-color: #322f31;
+}
+
+#order {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    height: 50vh;
+    color: white;
+}
+
+
+.Crepes #id_description {
+    background-color: #fdfad6;
+    color: #322f31;
+}
+
+.Crepes #id_quantity {
+    background-color: #fdfad6;
+    color: #322f31;
+}
+
+    
+.Galletes #id_description {
+    background-color: #d1fffd;
+    color: #322f31;
+}
+
+.Galletes #id_quantity {
+    background-color: #d1fffd;
+    color: #322f31;
+}
+
+.Pancakes #id_description {
+    background-color: #d1e9fe;
+    color: #322f31;
+}
+
+.Pancakes #id_quantity {
+    background-color: #d1e9fe;
+    color: #322f31;
+}
+
+.Salads #id_description {
+    background-color: #fcdbfc;
+    color: #322f31;
+}
+
+
+.Salads #id_quantity {
+    background-color: #fcdbfc;
+    color: #322f31;
+}
+
+.SoftDrinks #id_description {
+    background-color: #ffd1f4;
+    color: #322f31;
+}
+
+
+.SoftDrinks #id_quantity {
+    background-color: #ffd1f4;
+    color: #322f31;
+}
+
+.Alcohols #id_description {
+    background-color: #d1fdff;
+    color: #322f31;
+}
+
+
+.Alcohols #id_quantity {
+    background-color: #d1fdff;
+    color: #322f31;
+}
+
+
+
+
+
+
+

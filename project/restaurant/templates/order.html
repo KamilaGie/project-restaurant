@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+{% block order %}
+
+<div id="order" class="{{c}}">
+    <form method="post">
+    {% csrf_token %}
+    {{ form.as_p }}
+  <input type="submit" value="Wyślij zamówienie" id="btn">
+
+</form>
+</div>
+{% endblock %}
+
+
+
+
+
+
+
+
+
